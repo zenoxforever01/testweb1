@@ -1,0 +1,1392 @@
+Uri: http://kayachitrabymridul.in/
+File Name: F:\Kaya test\kayachitrabymridul.in\index.htm
+Content Type: text/html
+
+Uri: http://kayachitrabymridul.in/about-us/
+File Name: F:\Kaya test\kayachitrabymridul.in\about-us\index.htm
+Content Type: text/html
+
+Uri: http://kayachitrabymridul.in/blog/
+File Name: F:\Kaya test\kayachitrabymridul.in\blog\index.htm
+Content Type: text/html
+
+Uri: http://kayachitrabymridul.in/contact/
+File Name: F:\Kaya test\kayachitrabymridul.in\contact\index.htm
+Content Type: text/html
+
+Uri: http://kayachitrabymridul.in/details/
+File Name: F:\Kaya test\kayachitrabymridul.in\details\index.htm
+Content Type: text/html
+
+Uri: http://kayachitrabymridul.in/faqs/
+File Name: F:\Kaya test\kayachitrabymridul.in\faqs\index.htm
+Content Type: text/html
+
+Uri: http://kayachitrabymridul.in/feed/
+File Name: F:\Kaya test\kayachitrabymridul.in\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kayachitrabymridul.in/portfolio/
+File Name: F:\Kaya test\kayachitrabymridul.in\portfolio\index.htm
+Content Type: text/html
+
+Uri: http://kayachitrabymridul.in/uncategorized/adolins-newborn-session/
+File Name: F:\Kaya test\kayachitrabymridul.in\uncategorized\adolins-newborn-session\index.htm
+Content Type: text/html
+
+Uri: http://kayachitrabymridul.in/uncategorized/anderson-and-raellen/
+File Name: F:\Kaya test\kayachitrabymridul.in\uncategorized\anderson-and-raellen\index.htm
+Content Type: text/html
+
+Uri: http://kayachitrabymridul.in/uncategorized/delanies-newborn-session/
+File Name: F:\Kaya test\kayachitrabymridul.in\uncategorized\delanies-newborn-session\index.htm
+Content Type: text/html
+
+Uri: http://kayachitrabymridul.in/uncategorized/flashes-of-hope-ann-arbor-michigan/
+File Name: F:\Kaya test\kayachitrabymridul.in\uncategorized\flashes-of-hope-ann-arbor-michigan\index.htm
+Content Type: text/html
+
+Uri: http://kayachitrabymridul.in/uncategorized/goodbye-2019/
+File Name: F:\Kaya test\kayachitrabymridul.in\uncategorized\goodbye-2019\index.htm
+Content Type: text/html
+
+Uri: http://kayachitrabymridul.in/uncategorized/mias-newborn-session/
+File Name: F:\Kaya test\kayachitrabymridul.in\uncategorized\mias-newborn-session\index.htm
+Content Type: text/html
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.15.3
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.15.3
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.15.3
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.15.3
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.21.0
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.21.0
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.21.0
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.21.0
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.21.0
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.21.0
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.9.2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.9.2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.9.2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.9.2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=2.9.2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.9.2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.9.2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/envira-gallery-lite/assets/css/envira.css?ver=1.8.6.2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\envira-gallery-lite\assets\css\envira.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/envira-gallery-lite/assets/css/fancybox.css?ver=1.8.6.2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\envira-gallery-lite\assets\css\fancybox.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/envira-gallery-lite/assets/css/images/blank.gif
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\envira-gallery-lite\assets\css\images\blank.gif
+Content Type: image/gif
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_buttons.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\envira-gallery-lite\assets\css\images\envirabox_buttons.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_loading.gif
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\envira-gallery-lite\assets\css\images\envirabox_loading.gif
+Content Type: image/gif
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_loading@2x.gif
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\envira-gallery-lite\assets\css\images\envirabox_loading@2x.gif
+Content Type: image/gif
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_overlay.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\envira-gallery-lite\assets\css\images\envirabox_overlay.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_sprite.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\envira-gallery-lite\assets\css\images\envirabox_sprite.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox_sprite@2x.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\envira-gallery-lite\assets\css\images\envirabox_sprite@2x.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/envira-gallery-lite/assets/css/justifiedGallery.css?ver=1.8.6.2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\envira-gallery-lite\assets\css\justifiedGallery.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/envira-gallery-lite/assets/css/responsivelyLazy.css?ver=1.8.6.2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\envira-gallery-lite\assets\css\responsivelyLazy.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/envira-gallery-lite/assets/js/min/envira-min.js?ver=1.8.6.2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\envira-gallery-lite\assets\js\min\envira-min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.15
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\header-footer-elementor\assets\css\header-footer-elementor.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=1.6.15
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\header-footer-elementor\inc\js\frontend.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.15
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\header-footer-elementor\inc\widgets-css\frontend.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/wpforms-lite/assets/css/frontend/modern/wpforms-full.min.css?ver=1.8.3.1
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\wpforms-lite\assets\css\frontend\modern\wpforms-full.min.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\wpforms-lite\assets\images\submit-spin.svg
+Content Type: image/svg+xml
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.3.1
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/wpforms-lite/assets/js/utils.min.js?ver=1.8.3.1
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\wpforms-lite\assets\js\utils.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/wpforms-lite/assets/js/wpforms-modern.min.js?ver=1.8.3.1
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\wpforms-lite\assets\js\wpforms-modern.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/wpforms-lite/assets/js/wpforms.min.js?ver=1.8.3.1
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\wpforms-lite\assets\js\wpforms.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.19.5
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\wpforms-lite\assets\lib\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\wpforms-lite\assets\lib\mailcheck.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js?ver=1.0.0
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\plugins\wpforms-lite\assets\lib\punycode.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-content/themes/hello-elementor/style.min.css?ver=2.8.1
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/themes/hello-elementor/theme.min.css?ver=2.8.1
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/05-1-scaled.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\05-1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/2019-12-31_0002-1024x865.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\2019-12-31_0002-1024x865.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/2019-12-31_0002-1536x1298.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\2019-12-31_0002-1536x1298.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/2019-12-31_0002-300x254.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\2019-12-31_0002-300x254.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/2019-12-31_0002-768x649.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\2019-12-31_0002-768x649.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/2019-12-31_0002.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\2019-12-31_0002.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/2020-01-03_0001-1-1024x654.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\2020-01-03_0001-1-1024x654.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/2020-01-03_0001-1-1536x981.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\2020-01-03_0001-1-1536x981.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/2020-01-03_0001-1-300x192.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\2020-01-03_0001-1-300x192.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/2020-01-03_0001-1-768x491.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\2020-01-03_0001-1-768x491.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/2020-01-03_0001-1.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\2020-01-03_0001-1.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/2020-02-10_0002-1024x683.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\2020-02-10_0002-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/2020-02-10_0002-1536x1025.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\2020-02-10_0002-1536x1025.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/2020-02-10_0002-300x200.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\2020-02-10_0002-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/2020-02-10_0002-768x512.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\2020-02-10_0002-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/2020-02-10_0002.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\2020-02-10_0002.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/367654150_1211170306242883_2279434460368457788_n.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\367654150_1211170306242883_2279434460368457788_n.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/367973272_309850254910169_3058033252944092411_n.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\367973272_309850254910169_3058033252944092411_n.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/367994827_623813536525734_196377844718771519_n-1024x1024.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\367994827_623813536525734_196377844718771519_n-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/367994827_623813536525734_196377844718771519_n-150x150.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\367994827_623813536525734_196377844718771519_n-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/367994827_623813536525734_196377844718771519_n-300x300.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\367994827_623813536525734_196377844718771519_n-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/367994827_623813536525734_196377844718771519_n-768x768.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\367994827_623813536525734_196377844718771519_n-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/367994827_623813536525734_196377844718771519_n.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\367994827_623813536525734_196377844718771519_n.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/368073233_3618739558450113_3481221518169511769_n-1317x1536.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\368073233_3618739558450113_3481221518169511769_n-1317x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/368073233_3618739558450113_3481221518169511769_n-257x300.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\368073233_3618739558450113_3481221518169511769_n-257x300.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/368073233_3618739558450113_3481221518169511769_n-768x895.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\368073233_3618739558450113_3481221518169511769_n-768x895.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/368073233_3618739558450113_3481221518169511769_n-878x1024.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\368073233_3618739558450113_3481221518169511769_n-878x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/368073233_3618739558450113_3481221518169511769_n.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\368073233_3618739558450113_3481221518169511769_n.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/4-scaled.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\4-scaled.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/5-1.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\5-1.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/5986c9c9ef9bd9cbc68e6e364d183f60-200x300.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\5986c9c9ef9bd9cbc68e6e364d183f60-200x300.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/5986c9c9ef9bd9cbc68e6e364d183f60-683x1024.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\5986c9c9ef9bd9cbc68e6e364d183f60-683x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/5986c9c9ef9bd9cbc68e6e364d183f60.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\5986c9c9ef9bd9cbc68e6e364d183f60.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/Amalfi-Coast.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\Amalfi-Coast.ttf
+Content Type: font/ttf
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-1024x683.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-2.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-2.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-3-1024x683.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-3-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-3-1536x1024.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-3-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-3-300x200.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-3-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-3-768x512.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-3-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-3.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-3.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-300x200.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-768x512.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\Detroit-Michigan-Newborn-Photographer-Carrie-Ferris-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/Detroit-Michigan-Newborn-Photographer-Carrie-Ferris.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\Detroit-Michigan-Newborn-Photographer-Carrie-Ferris.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/DSC00665-copy.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\DSC00665-copy.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/DSC04117-copy-1-1-1024x499.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\DSC04117-copy-1-1-1024x499.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/DSC04117-copy-1-1-1536x748.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\DSC04117-copy-1-1-1536x748.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/DSC04117-copy-1-1-300x146.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\DSC04117-copy-1-1-300x146.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/DSC04117-copy-1-1-768x374.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\DSC04117-copy-1-1-768x374.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/DSC04117-copy-1-1.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\DSC04117-copy-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/DSC04150-copy.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\DSC04150-copy.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/DSC04915-copy.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\DSC04915-copy.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/DSC06215-copy.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\DSC06215-copy.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/DSC06612-Recovered.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\DSC06612-Recovered.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/DSC08356-copy-1-1-200x300.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\DSC08356-copy-1-1-200x300.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/DSC08356-copy-1-1-scaled.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\DSC08356-copy-1-1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/DSC09399-copy.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\DSC09399-copy.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/image-001.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\image-001.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/image-002.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\image-002.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/image-003.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\image-003.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/image-004.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\image-004.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/image-005-270x300.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\image-005-270x300.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/image-005.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\image-005.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/IMG_6038-Copy1-1024x931.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\IMG_6038-Copy1-1024x931.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/IMG_6038-Copy1-1536x1397.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\IMG_6038-Copy1-1536x1397.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/IMG_6038-Copy1-300x273.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\IMG_6038-Copy1-300x273.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/IMG_6038-Copy1-768x698.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\IMG_6038-Copy1-768x698.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/08/IMG_6038-Copy1.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\08\IMG_6038-Copy1.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/1-1-150x150.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\1-1-150x150.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/1-1-300x300.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\1-1-300x300.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/1-1.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\1-1.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/1-150x150.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\1-150x150.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/1-300x300.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\1-300x300.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/1.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\1.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2-1-150x150.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2-1-150x150.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2-1-300x300.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2-1-300x300.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2-1.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2-1.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2-150x150.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2-150x150.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2-300x300.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2-300x300.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-01-03_0003-1024x577.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-01-03_0003-1024x577.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-01-03_0003-1536x865.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-01-03_0003-1536x865.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-01-03_0003-300x169.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-01-03_0003-300x169.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-01-03_0003-768x433.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-01-03_0003-768x433.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-01-03_0003.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-01-03_0003.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-01-15_0001-1401x2048-1-1051x1536.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-01-15_0001-1401x2048-1-1051x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-01-15_0001-1401x2048-1-205x300.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-01-15_0001-1401x2048-1-205x300.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-01-15_0001-1401x2048-1-701x1024.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-01-15_0001-1401x2048-1-701x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-01-15_0001-1401x2048-1-768x1123.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-01-15_0001-1401x2048-1-768x1123.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-01-15_0001-1401x2048-1.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-01-15_0001-1401x2048-1.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-01-15_0006-1361x1536.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-01-15_0006-1361x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-01-15_0006-266x300.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-01-15_0006-266x300.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-01-15_0006-768x867.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-01-15_0006-768x867.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-01-15_0006-908x1024.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-01-15_0006-908x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-01-15_0006.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-01-15_0006.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-02-10_0003-1024x1024.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-02-10_0003-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-02-10_0003-150x150.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-02-10_0003-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-02-10_0003-1536x1536.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-02-10_0003-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-02-10_0003-300x300.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-02-10_0003-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-02-10_0003-768x768.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-02-10_0003-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-02-10_0003.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-02-10_0003.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-04-03_0002-scaled-1-1229x2048.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-04-03_0002-scaled-1-1229x2048.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-04-03_0002-scaled-1-180x300.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-04-03_0002-scaled-1-180x300.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-04-03_0002-scaled-1-614x1024.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-04-03_0002-scaled-1-614x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-04-03_0002-scaled-1-768x1280.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-04-03_0002-scaled-1-768x1280.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-04-03_0002-scaled-1-922x1536.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-04-03_0002-scaled-1-922x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/2020-04-03_0002-scaled-1.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\2020-04-03_0002-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/3-150x150.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\3-150x150.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/3-300x300.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\3-300x300.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/3.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\3.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/4-150x150.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\4-150x150.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/4-300x300.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\4-300x300.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/4.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\4.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/4a5a7484-200x300.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\4a5a7484-200x300.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/4a5a7484.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\4a5a7484.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/BeFunky-collage-1-150x150.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\BeFunky-collage-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/BeFunky-collage-1-300x300.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\BeFunky-collage-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/BeFunky-collage-1-768x768.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\BeFunky-collage-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/BeFunky-collage-1.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\BeFunky-collage-1.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/ella_36-200x300.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\ella_36-200x300.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/ella_36-683x1024.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\ella_36-683x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/ella_36-768x1152.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\ella_36-768x1152.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/ella_36.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\ella_36.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/image-047-1024x819.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\image-047-1024x819.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/image-047-300x240.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\image-047-300x240.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/image-047-768x614.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\image-047-768x614.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/image-047.png
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\image-047.png
+Content Type: image/png
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/image-048-300x232.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\image-048-300x232.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/image-048-768x593.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\image-048-768x593.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/2023/09/image-048.jpg
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\2023\09\image-048.jpg
+Content Type: image/jpeg
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/global.css?ver=1692880626
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/post-1180.css?ver=1693819558
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\post-1180.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/post-2146.css?ver=1694082704
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\post-2146.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/post-2428.css?ver=1693811099
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\post-2428.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/post-2455.css?ver=1693809301
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\post-2455.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/post-2482.css?ver=1693819220
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\post-2482.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/post-2489.css?ver=1693819221
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\post-2489.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/post-2495.css?ver=1693819222
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\post-2495.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/post-2502.css?ver=1693819223
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\post-2502.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/post-506.css?ver=1694086566
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\post-506.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/post-524.css?ver=1694085119
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\post-524.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/post-745.css?ver=1694071696
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\post-745.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/post-80.css?ver=1694089054
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\post-80.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/post-849.css?ver=1693898249
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\post-849.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/post-9.css?ver=1692880625
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\post-9.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/post-910.css?ver=1694082611
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\post-910.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-content/uploads/elementor/css/post-964.css?ver=1694069692
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-content\uploads\elementor\css\post-964.css
+Content Type: text/css
+
+Uri: http://kayachitrabymridul.in/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-includes\js\jquery\jquery.masonry.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-includes/js/masonry.min.js?ver=4.2.2
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-includes\js\masonry.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-includes/js/wp-util.min.js?ver=6.3.1
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: http://kayachitrabymridul.in/wp-json/
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2F
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2F&format=xml
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Fabout-us%2F
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Fabout-us%2F&format=xml
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Fblog%2F
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Fblog%2F&format=xml
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Fcontact%2F
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Fcontact%2F&format=xml
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Fdetails%2F
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Fdetails%2F&format=xml
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Ffaqs%2F
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Ffaqs%2F&format=xml
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Fportfolio%2F
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Fportfolio%2F&format=xml
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Funcategorized%2Fadolins-newborn-session%2F
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Funcategorized%2Fadolins-newborn-session%2F&format=xml
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Funcategorized%2Fanderson-and-raellen%2F
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Funcategorized%2Fanderson-and-raellen%2F&format=xml
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Funcategorized%2Fdelanies-newborn-session%2F
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Funcategorized%2Fdelanies-newborn-session%2F&format=xml
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Funcategorized%2Fflashes-of-hope-ann-arbor-michigan%2F
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Funcategorized%2Fflashes-of-hope-ann-arbor-michigan%2F&format=xml
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Funcategorized%2Fgoodbye-2019%2F
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Funcategorized%2Fgoodbye-2019%2F&format=xml
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Funcategorized%2Fmias-newborn-session%2F
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fkayachitrabymridul.in%2Funcategorized%2Fmias-newborn-session%2F&format=xml
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://kayachitrabymridul.in/wp-json/wp/v2/pages/1180
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\wp\v2\pages\1180
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/wp/v2/pages/2146
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\wp\v2\pages\2146
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/wp/v2/pages/524
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\wp\v2\pages\524
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/wp/v2/pages/745
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\wp\v2\pages\745
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/wp/v2/pages/80
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\wp\v2\pages\80
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/wp/v2/pages/910
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\wp\v2\pages\910
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/wp/v2/pages/964
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\wp\v2\pages\964
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/wp/v2/posts/2428
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\wp\v2\posts\2428
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/wp/v2/posts/2455
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\wp\v2\posts\2455
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/wp/v2/posts/2482
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\wp\v2\posts\2482
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/wp/v2/posts/2489
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\wp\v2\posts\2489
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/wp/v2/posts/2495
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\wp\v2\posts\2495
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/wp-json/wp/v2/posts/2502
+File Name: F:\Kaya test\kayachitrabymridul.in\wp-json\wp\v2\posts\2502
+Content Type: application/json
+
+Uri: http://kayachitrabymridul.in/xmlrpc.php?rsd
+File Name: F:\Kaya test\kayachitrabymridul.in\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Cantarell:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Cormorant:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lora:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Raleway:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.3.1
+File Name: F:\Kaya test\kayachitrabymridul.in\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Cantarell:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lora:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Cormorant:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Raleway:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.3.1
+File Name: F:\Kaya test\kayachitrabymridul.in\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Cantarell:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Raleway:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Cormorant:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lora:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.3.1
+File Name: F:\Kaya test\kayachitrabymridul.in\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/cantarell/v17/B50IF7ZDq37KMUvlO01xN4d-E46a.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\cantarell\v17\B50IF7ZDq37KMUvlO01xN4d-E46a.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cantarell/v17/B50LF7ZDq37KMUvlO015iZJpNK4.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\cantarell\v17\B50LF7ZDq37KMUvlO015iZJpNK4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cantarell/v17/B50NF7ZDq37KMUvlO015jKJu.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\cantarell\v17\B50NF7ZDq37KMUvlO015jKJu.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cantarell/v17/B50WF7ZDq37KMUvlO015iZrSEb6dDY4.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\cantarell\v17\B50WF7ZDq37KMUvlO015iZrSEb6dDY4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQ9fda7yWv.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\cormorant\v21\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQ9fda7yWv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQdfBa7yWv.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\cormorant\v21\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQdfBa7yWv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQmfda7yWv.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\cormorant\v21\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQmfda7yWv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQq_da7yWv.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\cormorant\v21\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQq_da7yWv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQTPBa7yWv.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\cormorant\v21\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQTPBa7yWv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFhFTc7Nq6A.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\cormorant\v21\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFhFTc7Nq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFiNTc7Nq6A.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\cormorant\v21\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFiNTc7Nq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFk9Tc7Nq6A.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\cormorant\v21\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFk9Tc7Nq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFs9Uc7Nq6A.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\cormorant\v21\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFs9Uc7Nq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFvZUc7Nq6A.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\cormorant\v21\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFvZUc7Nq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v32/0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\lora\v32\0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v32/0QI6MX1D_JOuGQbT0gvTJPa787wsuxJBkqg.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\lora\v32\0QI6MX1D_JOuGQbT0gvTJPa787wsuxJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v32/0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkqg.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\lora\v32\0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v32/0QI6MX1D_JOuGQbT0gvTJPa787zAvBJBkqg.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\lora\v32\0QI6MX1D_JOuGQbT0gvTJPa787zAvBJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v32/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-BQCoq92mQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\lora\v32\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-BQCoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v32/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Coq92mQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\lora\v32\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Coq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v32/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92mQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\lora\v32\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v32/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoq92mQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\lora\v32\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v32/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: F:\Kaya test\kayachitrabymridul.in\s\robotoslab\v32\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
